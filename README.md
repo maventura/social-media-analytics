@@ -1,4 +1,4 @@
-**# social-media-analytics**# Instagram Social Media Analytics & ETL
+# Instagram Social Media Analytics & ETL
 
 This repository contains a Python-based pipeline for processing and analyzing Instagram data. The project facilitates the consolidation of raw scraped data from multiple accounts into a unified dataset, followed by bivariate statistical analysis to identify correlations between various engagement metrics.
 
